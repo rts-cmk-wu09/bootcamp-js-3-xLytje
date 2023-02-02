@@ -1,3 +1,4 @@
+
 //let link = document.querySelectorAll("nav ul a")
 //
 //link.forEach((element, index) => {
@@ -7,7 +8,7 @@
 //    })
 //})
 
-let content = document.querySelector(".main")
+let content = document.querySelector("[role='main']")
 
 let pages = {
     "#page1": "page1.html",
